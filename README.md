@@ -7,5 +7,5 @@ this plugin edit from V3
 
 thank you for Johann Burkard.
 
-how to use example 
+how to use example <br>
 <asp:TextBox ID="txt_search" runat="server" Width="200" onkeyup="highlightwords($('#ContentPlaceHolder1_GridView1'), $('#ContentPlaceHolder1_txt_search').val());"/>
